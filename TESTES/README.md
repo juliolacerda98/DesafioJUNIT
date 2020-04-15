@@ -1,0 +1,1 @@
+# Pasta de uso exclusivo para armazenamento de casos e resultados de testes.
